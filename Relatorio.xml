@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<BancoDadosRelatorio>
+  <Relatorios>
+    <Cliente CPF="11488711607">
+      <NOME>Thales</NOME>
+      <NOMEPRODUTO>Turma da Mônica</NOMEPRODUTO>
+      <QUANTIDADE>1</QUANTIDADE>
+      <PRECO>7,5</PRECO>
+      <DATA>20/06/2017 - 19:10</DATA>
+    </Cliente>
+    <Cliente CPF="11488711607">
+      <NOME>Thales</NOME>
+      <NOMEPRODUTO>Academia Jedi</NOMEPRODUTO>
+      <QUANTIDADE>7</QUANTIDADE>
+      <PRECO>279,3</PRECO>
+      <DATA>20/06/2017 - 19:14</DATA>
+    </Cliente>
+  </Relatorios>
+</BancoDadosRelatorio>

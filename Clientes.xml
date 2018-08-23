@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<BancoDadosClientes>
+  <Clientes>
+    <Cliente ID="1">
+      <NOME>Victor</NOME>
+      <CPF>10517907607</CPF>
+      <TEL>993037382</TEL>
+      <CIDADE>Belo Horizonte</CIDADE>
+      <EMAIL>71700838@aluno.faculdadecotemig.br</EMAIL>
+    </Cliente>
+    <Cliente ID="2">
+      <NOME>Marcos</NOME>
+      <CPF>10402034694</CPF>
+      <TEL>988388377</TEL>
+      <CIDADE>Belo Horizonte</CIDADE>
+      <EMAIL>71700811@aluno.faculdadecotemig.br</EMAIL>
+    </Cliente>
+    <Cliente ID="3">
+      <NOME>Thales</NOME>
+      <CPF>11488711607</CPF>
+      <TEL>999282155</TEL>
+      <CIDADE>Belo Horizonte</CIDADE>
+      <EMAIL>71700846@aluno.faculdadecotemig.br</EMAIL>
+    </Cliente>
+    <Cliente ID="4">
+      <NOME>Adinan</NOME>
+      <CPF>12259181627</CPF>
+      <TEL>994588199</TEL>
+      <CIDADE>Belo Horizonte</CIDADE>
+      <EMAIL>71700889@aluno.faculdadecotemig.br</EMAIL>
+    </Cliente>
+    <Cliente ID="5">
+      <NOME>Rodrigo</NOME>
+      <CPF>11547025611</CPF>
+      <TEL>992459170</TEL>
+      <CIDADE>Belo Horizonte</CIDADE>
+      <EMAIL>71700749@aluno.faculdadecotemig.br</EMAIL>
+    </Cliente>
+    <Cliente ID="6">
+      <NOME>Vinicius</NOME>
+      <CPF>14372368631</CPF>
+      <TEL>991653094</TEL>
+      <CIDADE>Belo Horizonte</CIDADE>
+      <EMAIL>71700854@aluno.faculdadecotemig.br</EMAIL>
+    </Cliente>
+    <Cliente ID="7">
+      <NOME>Alexandre</NOME>
+      <CPF>07017417674</CPF>
+      <TEL>997874774</TEL>
+      <CIDADE>Belo Horizonte</CIDADE>
+      <EMAIL>71700641@aluno.faculdadecotemig.br</EMAIL>
+    </Cliente>
+    </Clientes>
+</BancoDadosClientes>

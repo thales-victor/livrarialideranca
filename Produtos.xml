@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<BancoDadosProdutos>
+  <Produtos>
+    <Produto ID="1">
+      <TIPO>Infantis</TIPO>
+      <NOME>Turma da Mônica</NOME>
+      <PRECO>7,50</PRECO>
+      <ESTOQUE>6</ESTOQUE>
+    </Produto>
+    <Produto ID="2">
+      <TIPO>Infantis</TIPO>
+      <NOME>Lulu e Bolinha</NOME>
+      <PRECO>10,99</PRECO>
+      <ESTOQUE>7</ESTOQUE>
+    </Produto>
+    <Produto ID="3">
+      <TIPO>Infantis</TIPO>
+      <NOME>Disney</NOME>
+      <PRECO>24,90</PRECO>
+      <ESTOQUE>10</ESTOQUE>
+    </Produto>
+    <Produto ID="4">
+      <TIPO>Infantis</TIPO>
+      <NOME>Menino Maluquinho</NOME>
+      <PRECO>28,90</PRECO>
+      <ESTOQUE>10</ESTOQUE>
+    </Produto>
+    <Produto ID="5">
+      <TIPO>Infantis</TIPO>
+      <NOME>Academia Jedi</NOME>
+      <PRECO>39,90</PRECO>
+      <ESTOQUE>12</ESTOQUE>
+    </Produto>
+    <Produto ID="6">
+      <TIPO>Mangá</TIPO>
+      <NOME>Naruto</NOME>
+      <PRECO>16,90</PRECO>
+      <ESTOQUE>3</ESTOQUE>
+    </Produto>
+    <Produto ID="7">
+      <TIPO>Mangá</TIPO>
+      <NOME>One Piece</NOME>
+      <PRECO>17,90</PRECO>
+      <ESTOQUE>10</ESTOQUE>
+    </Produto>
+    <Produto ID="8">
+      <TIPO>Mangá</TIPO>
+      <NOME>Death Note</NOME>
+      <PRECO>19,90</PRECO>
+      <ESTOQUE>9</ESTOQUE>
+    </Produto>
+    <Produto ID="9">
+      <TIPO>Mangá</TIPO>
+      <NOME>Dragon Ball</NOME>
+      <PRECO>22,90</PRECO>
+      <ESTOQUE>9</ESTOQUE>
+    </Produto>
+    <Produto ID="10">
+      <TIPO>Mangá</TIPO>
+      <NOME>Sakura Card Captors</NOME>
+      <PRECO>14,90</PRECO>
+      <ESTOQUE>10</ESTOQUE>
+    </Produto>
+    <Produto ID="11">
+      <TIPO>Herois</TIPO>
+      <NOME>DC Comics</NOME>
+      <PRECO>24,90</PRECO>
+      <ESTOQUE>6</ESTOQUE>
+    </Produto>
+    <Produto ID="12">
+      <TIPO>Herois</TIPO>
+      <NOME>Marvel</NOME>
+      <PRECO>22,90</PRECO>
+      <ESTOQUE>9</ESTOQUE>
+    </Produto>
+    <Produto ID="13">
+      <TIPO>Herois</TIPO>
+      <NOME>Image</NOME>
+      <PRECO>24,90</PRECO>
+      <ESTOQUE>0</ESTOQUE>
+    </Produto>
+    <Produto ID="14">
+      <TIPO>Herois</TIPO>
+      <NOME>Dark Horse</NOME>
+      <PRECO>34,90</PRECO>
+      <ESTOQUE>10</ESTOQUE>
+    </Produto>
+    <Produto ID="15">
+      <TIPO>Herois</TIPO>
+      <NOME>Titulos Europeus</NOME>
+      <PRECO>62,90</PRECO>
+      <ESTOQUE>9</ESTOQUE>
+    </Produto>
+  </Produtos>
+</BancoDadosProdutos>
